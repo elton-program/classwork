@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "name": "Nike Air Max ",
+      "price": 149.99,
+      "description": "salam",
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Iphone 17",
+      "price": 1999.99,
+      "category": "Iphone",
+      "image": "https://tse1.explicit.bing.net/th/id/OIP._7Hujvbv2_09NbrIrVAF6wAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "M3 Pro chip, 18GB RAM, 512GB SSD"
+    },
+    {
+      "id": "3",
+      "name": "Theragun Pro Massager",
+      "price": 599,
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=400&q=80",
+      "description": "Professional percussive therapy device"
+    },
+    {
+      "id": "4",
+      "name": "Dyson V15 Detect Vacuum",
+      "price": 749.99,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+      "description": "Laser-guided intelligent cordless vacuum cleaner"
+    },
+    {
+      "id": "5",
+      "name": "Canon EOS R6 Mark II",
+      "price": 2499.99,
+      "category": "Photography",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400&q=80",
+      "description": "40MP full-frame mirrorless camera"
+    },
+    {
+      "id": "6",
+      "name": "Levi's 501 Original Jeans",
+      "price": 79.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1604176424472-17cd740f74e9?w=400&q=80",
+      "description": "Classic straight-fit denim jeans"
+    },
+    {
+      "id": "7",
+      "name": "IKEA KALLAX Shelf Unit",
+      "price": 129.99,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "description": "Versatile shelf unit with 16 compartments"
+    },
+    {
+      "id": "8",
+      "name": "Kindle Paperwhite 11th Gen",
+      "price": 139.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&q=80",
+      "description": "6.8\" display, adjustable warm light, waterproof"
+    },
+    {
+      "id": "9",
+      "name": "Vitamix 5200 Blender",
+      "price": 549.99,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&q=80",
+      "description": "Professional-grade high-performance blender"
+    },
+    {
+      "id": "10",
+      "name": "Lego Technic Bugatti",
+      "price": 449.99,
+      "category": "Toys",
+      "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=400&q=80",
+      "description": "3,599-piece engineering masterpiece set"
+    },
+    {
+      "id": "11",
+      "name": "Patagonia Down Jacket",
+      "price": 299.99,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=400&q=80",
+      "description": "800-fill-power down insulated jacket"
+    },
+    {
+      "id": "12",
+      "name": "Samsung 65\" QLED TV",
+      "price": 1299.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=400&q=80",
+      "description": "4K QLED Smart TV with Quantum HDR"
+    },
+    {
+      "id": "13",
+      "name": "Weber Spirit II Gas Grill",
+      "price": 499.99,
+      "category": "Outdoor",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "description": "3-burner gas grill with iGrill compatibility"
+    },
+    {
+      "id": "14",
+      "name": "Instant Pot Duo 7-in-1",
+      "price": 89.99,
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&q=80",
+      "description": "Multi-use pressure cooker, 8 quart"
+    },
+    {
+      "id": "15",
+      "name": "Adidas Ultraboost 22",
+      "price": 189.99,
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400&q=80",
+      "description": "Responsive running shoes with BOOST midsole"
+    },
+    {
+      "name": "Ray-Ban Aviator Classic",
+      "price": 163.99,
+      "category": "Accessories",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnpOT3H89ShReyMUGCtqaY3RISC9o7BdcFQ&s",
+      "description": "Iconic metal frame aviator sunglasses",
+      "id": "16"
+    },
+    {
+      "id": "17",
+      "name": "Bose QuietComfort 45",
+      "price": 279.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400&q=80",
+      "description": "Wireless noise cancelling headphones"
+    },
+    {
+      "id": "18",
+      "name": "YETI Rambler 30 oz Tumbler",
+      "price": 39.99,
+      "category": "Outdoors",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80",
+      "description": "Double-wall vacuum insulated tumbler"
+    },
+    {
+      "id": "19",
+      "name": "Theragun Pro Massager",
+      "price": 599.99,
+      "category": "Health",
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=400&q=80",
+      "description": "Professional percussive therapy device"
+    },
+    {
+      "name": "ssss",
+      "price": "0333",
+      "category": "ssd",
+      "description": "ddd",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+      "id": "qaigvcooR2c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
